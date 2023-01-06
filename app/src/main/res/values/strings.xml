@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OpenWeatherMapAndroid</string>
+
+    // WeatherScreen
+    <string name="header_text">Weather Today</string>
+    <string name="fetch_header_text">Fetching weather reports…</string>
+    <string name="error_failed_fetch_city">Could not fetch data from %1$s</string>
+
+    // WeatherCard
+    <string name="weather_property_humidity">Humidity</string>
+    <string name="weather_property_wind">Wind</string>
+    <string name="weather_property_pressure">Pressure</string>
+</resources>
